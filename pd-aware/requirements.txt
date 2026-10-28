@@ -1,0 +1,41 @@
+# Core
+streamlit>=1.38.0
+python-dotenv>=1.0.0
+
+# ML
+scikit-learn>=1.5.0
+xgboost>=2.0.0
+shap>=0.45.0
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+scipy>=1.13.0
+joblib>=1.4.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Auth
+streamlit-authenticator>=0.4.0
+bcrypt>=4.1.0
+
+# PDF Reports
+fpdf2>=2.8.0
+
+# NLP / RAG
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-ollama>=0.2.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# Testing
+pytest>=8.0.0
+pytest-cov>=5.0.0
+
+# Utilities
+plotly>=5.22.0
+altair>=5.3.0
+streamlit-option-menu>=0.4.0
+extra-streamlit-components>=0.1.0
